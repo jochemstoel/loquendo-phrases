@@ -1,0 +1,490 @@
+{
+    "Gilded": [
+        "SpeechActs>",
+        "Extras>"
+    ],
+    "SpeechActs": [
+        "Announce>",
+        "Apologies>",
+        "Approval>",
+        "Compliments>",
+        "Contrast>",
+        "Disapproval>",
+        "Disbelief>",
+        "Greetings>",
+        "Recall>",
+        "Refuse>",
+        "Regret>",
+        "Request_Action>",
+        "Request_Confirmation>",
+        "Request_Information>",
+        "Surprise>",
+        "Thanks>"
+    ],
+    "Announce": [
+        "Dear all!",
+        "Dear colleagues!",
+        "Dear customer!",
+        "Dear customers!",
+        "Dear friends!",
+        "Dear guest!",
+        "Dear guests!",
+        "Dear traveller!",
+        "Dear travellers!",
+        "Ladies and gentlemen!",
+        "Let me introduce myself!",
+        "May I have your attention please?!"
+    ],
+    "Apologies": [
+        "Apologies!",
+        "Excuse me!",
+        "I do apologise!",
+        "I was like so going to call!",
+        "I'm so sorry!",
+        "I'm so sorry!!",
+        "I'm sorry!",
+        "Pardon me!",
+        "Please excuse me!",
+        "Please forgive me!",
+        "Please forgive me!!",
+        "Sorry about that!",
+        "Sorry!"
+    ],
+    "Approval": [
+        "Absolutely!",
+        "Agreed!",
+        "Alright!",
+        "But of course!",
+        "By all means!",
+        "Can't argue with that!",
+        "Certainly!",
+        "Couldn't have said it better!",
+        "Definitely!",
+        "Exactly!",
+        "Fantastic!",
+        "I agree!",
+        "I completely agree!",
+        "I couldn't agree with you more!",
+        "I'd like to!",
+        "No problem!",
+        "Of course!",
+        "Oh alright!!",
+        "Oh okay!",
+        "Oh okay!!",
+        "Oh sure!",
+        "Ok!",
+        "Ok!!",
+        "Right!",
+        "Right!!",
+        "Sure!",
+        "Sure!!",
+        "Surely!",
+        "That's alright!!",
+        "That's correct!",
+        "That's right!",
+        "Very well indeed!",
+        "Very well!",
+        "Why not!",
+        "Yeah!",
+        "Yes please!",
+        "Yes please!!",
+        "Yes really!",
+        "Yes!"
+    ],
+    "Compliments": [
+        "Beautiful!",
+        "Bravo!",
+        "Brilliant!",
+        "Congratulations!",
+        "Damn good!",
+        "Delicious!",
+        "Good!",
+        "It's a pleasure!",
+        "Lovely!",
+        "That's great news!",
+        "That's very kind of you!",
+        "Well done!",
+        "You're welcome!"
+    ],
+    "Contrast": [
+        "But no!",
+        "Can't be!",
+        "I don't like it!",
+        "I don't think so!",
+        "I don't want to!",
+        "I just don't get it!",
+        "I'm afraid not!",
+        "I'm not sure I agree!",
+        "I'm not sure!",
+        "Impossible!",
+        "It isn't possible!!",
+        "Never!",
+        "No way!",
+        "No!",
+        "Nonsense!",
+        "Not at all!",
+        "Not on your life!",
+        "Not really!",
+        "Oh no!!",
+        "On the contrary!",
+        "You may not!",
+        "You're dead wrong!",
+        "You've got that wrong!"
+    ],
+    "Disapproval": [
+        "I completely disagree!",
+        "I couldn't disagree more!",
+        "I don't agree!",
+        "I'm afraid I disagree with you!",
+        "I'm afraid I don't agree!",
+        "Rubbish!",
+        "That sucks!",
+        "That's rubbish!",
+        "What a rip off!"
+    ],
+    "Disbelief": [
+        "Come off it!",
+        "I don't believe it!",
+        "I don't believe you!",
+        "I doubt it!",
+        "It isn't possible!",
+        "My God!",
+        "O my God!",
+        "Oh come on now!",
+        "Oh come on!",
+        "Oh no!",
+        "Strange!",
+        "That's bad news!",
+        "That's impossible!",
+        "That's unbelievable!",
+        "That's unreal!",
+        "Unbelievable!",
+        "You can't be serious!",
+        "You must be joking!",
+        "You must be kidding!",
+        "You're having me on!",
+        "You're joking!",
+        "You're kidding!",
+        "You're taking the piss!",
+        "You're winding me up!",
+        "You've got to be kidding!"
+    ],
+    "Greetings": [
+        "Hello!",
+        "Hello?!",
+        "Hey you!",
+        "Hey!",
+        "Hi darling!",
+        "Hi!",
+        "How do!",
+        "I hope to hear from you soon!",
+        "I love you so much!",
+        "I love you!",
+        "I wish you all the best!",
+        "I wish you well!",
+        "Kisses!",
+        "Lots of love!",
+        "Love and kisses!",
+        "Merry Christmas!",
+        "Morning!",
+        "Nice to see you!",
+        "Same to you!",
+        "See you later!",
+        "See you soon!",
+        "See you tomorrow!",
+        "See you!",
+        "Sweetheart!",
+        "Take care!",
+        "Take it easy!",
+        "Welcome!",
+        "Yours faithfully!",
+        "Yours sincerely!",
+        "Yours truly!"
+    ],
+    "Recall": [
+        "What an honour!",
+        "Whatever!",
+        "Who cares?!",
+        "Who knows?!",
+        "With pleasure!",
+        "Wonderful!",
+        "Yeah yeah!",
+        "You can say that again!",
+        "You don't have to!",
+        "You know!",
+        "You may be right!",
+        "You may have a point!",
+        "You may!",
+        "You never know!",
+        "You!",
+        "You'll do just fine!",
+        "You're right!",
+        "Yup!",
+        "Zilch!"
+    ],
+    "Refuse": [
+        "Absolutely not!",
+        "Definitely not!",
+        "I can't!",
+        "Never!!",
+        "No way!!",
+        "No!!",
+        "Unfortunately not!",
+        "You can't do that!",
+        "You mustn't!"
+    ],
+    "Regret": [
+        "Commiserations!",
+        "Condolences!",
+        "I miss you!",
+        "I was worried about you!",
+        "I'm lost without you!",
+        "I'm sorry to hear that!",
+        "Miss you already!",
+        "Missing you!",
+        "Oh dear oh dear!",
+        "Oh dear what a pity!",
+        "Oh dear!",
+        "Oh what a pity!",
+        "Oh what a shame!",
+        "Poor you!",
+        "Sorry it didn't work out!",
+        "Too bad!",
+        "What a disaster!",
+        "What a mess!",
+        "What a pity!",
+        "What a shame!",
+        "What a terrible shame!",
+        "Wish you could stay!",
+        "Wish you didn't have to go!",
+        "Wish you were here!"
+    ],
+    "Request_Action": [
+        "Look out!",
+        "Look over there!",
+        "Look!",
+        "Move over!",
+        "Move your ass!",
+        "Move!",
+        "Oh please stop it!",
+        "Open up!",
+        "Please listen!",
+        "Please stop it!",
+        "Quiet!",
+        "Show me!",
+        "Sign here!",
+        "Silence!",
+        "Speak slowly!",
+        "Speak!",
+        "Stop it!",
+        "Stop!",
+        "Take this!",
+        "Talk to me!",
+        "Tell me!",
+        "Turn it off!",
+        "Turn it on!",
+        "Wake up!",
+        "Watch out!",
+        "Would you repeat it?!"
+    ],
+    "Request_Confirmation": [
+        "Yes?!",
+        "You got it?!",
+        "You know?!",
+        "You see?!",
+        "You understand?!",
+        "You're all right?!",
+        "You're not serious?!"
+    ],
+    "Request_Information": [
+        "What's the point?!",
+        "What's up with you?!",
+        "What's up?!",
+        "What?!",
+        "When does the fun start?!",
+        "Where was I?!",
+        "Which one?!",
+        "Who's there?!",
+        "Who?!",
+        "Why?!",
+        "Would you like me to?!",
+        "You mean?!",
+        "You were saying?!"
+    ],
+    "Surprise": [
+        "Surprise!",
+        "What a surprise!",
+        "Who would have believed it!"
+    ],
+    "Thanks": [
+        "Thanks to everybody!",
+        "Thanks to you all!",
+        "Thanks very much!",
+        "Thanks!"
+    ],
+    "Aahh": [
+        "\\item=Aahh"
+    ],
+    "Ah": [
+        "\\item=Ah"
+    ],
+    "Aha": [
+        "\\item=Aha"
+    ],
+    "Ahhh": [
+        "\\item=Ahhh"
+    ],
+    "Ahhhh": [
+        "\\item=Ahhhh"
+    ],
+    "Breath": [
+        "\\item=Breath"
+    ],
+    "Click": [
+        "\\item=Click"
+    ],
+    "Cough": [
+        "\\item=Cough",
+        "\\item=Cough_01"
+    ],
+    "Cry": [
+        "\\item=Cry"
+    ],
+    "Doh": [
+        "\\item=Doh"
+    ],
+    "Duh": [
+        "\\item=Duh"
+    ],
+    "Eh": [
+        "\\item=Eh"
+    ],
+    "Er": [
+        "\\item=Er"
+    ],
+    "Eugh": [
+        "\\item=Eugh"
+    ],
+    "Hiccup": [
+        "\\item=Hiccup"
+    ],
+    "Hmmm": [
+        "\\item=Hmmm"
+    ],
+    "Humph": [
+        "\\item=Humph"
+    ],
+    "Hurrah": [
+        "\\item=Hurrah"
+    ],
+    "Kiss": [
+        "\\item=Kiss",
+        "\\item=Kiss_01"
+    ],
+    "Laugh": [
+        "\\item=Laugh",
+        "\\item=Laugh_01",
+        "\\item=Laugh_02"
+    ],
+    "Mm-mm": [
+        "\\item=Mm-mm"
+    ],
+    "Mmm": [
+        "\\item=Mmm"
+    ],
+    "Oh": [
+        "\\item=Oh"
+    ],
+    "Oh-oh": [
+        "\\item=Oh-oh"
+    ],
+    "Ohhh": [
+        "\\item=Ohhh"
+    ],
+    "Oo-er": [
+        "\\item=Oo-er"
+    ],
+    "Oohhh": [
+        "\\item=Oohhh"
+    ],
+    "Oooh": [
+        "\\item=Oooh"
+    ],
+    "Ooops": [
+        "\\item=Ooops"
+    ],
+    "Ouch": [
+        "\\item=Ouch"
+    ],
+    "Ow": [
+        "\\item=Ow"
+    ],
+    "Phoarr": [
+        "\\item=Phoarr"
+    ],
+    "Raspberry": [
+        "\\item=Raspberry"
+    ],
+    "Sigh": [
+        "\\item=Sigh"
+    ],
+    "Sneeze": [
+        "\\item=Sneeze"
+    ],
+    "Sniff": [
+        "\\item=Sniff"
+    ],
+    "Snore": [
+        "\\item=Snore"
+    ],
+    "Sshhh": [
+        "\\item=Sshhh"
+    ],
+    "Swallow": [
+        "\\item=Swallow"
+    ],
+    "Throat": [
+        "\\item=Throat"
+    ],
+    "Tuttut": [
+        "\\item=Tuttut"
+    ],
+    "Uh": [
+        "\\item=Uh"
+    ],
+    "Uh-huh": [
+        "\\item=Uh-huh"
+    ],
+    "Uh-uh": [
+        "\\item=Uh-uh"
+    ],
+    "Um": [
+        "\\item=Um"
+    ],
+    "Whistle": [
+        "\\item=Whistle",
+        "\\item=Whistle_01"
+    ],
+    "Woah": [
+        "\\item=Woah"
+    ],
+    "Woh": [
+        "\\item=Woh",
+        "\\item=Woh_01"
+    ],
+    "Wolfwhistle": [
+        "\\item=Wolfwhistle"
+    ],
+    "Wow": [
+        "\\item=Wow"
+    ],
+    "Yawn": [
+        "\\item=Yawn"
+    ],
+    "Yuck": [
+        "\\item=Yuck"
+    ],
+    "Yummy": [
+        "\\item=Yummy"
+    ]
+}

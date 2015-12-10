@@ -1,0 +1,441 @@
+{
+    "Gilded": [
+        "SpeechActs>",
+        "Extras>"
+    ],
+    "SpeechActs": [
+        "Apologies>",
+        "Confirmation>",
+        "Contrast>",
+        "Disbelief>",
+        "Greetings>",
+        "Recall>",
+        "Regret>",
+        "Request_Action>",
+        "Request_Confirmation>",
+        "Request_Information>",
+        "Thanks>"
+    ],
+    "Apologies": [
+        "Com licen\u00e7a!",
+        "Desculpa!",
+        "Desculpe!",
+        "Desculpe-me!",
+        "Desculpem!",
+        "Licen\u00e7a!",
+        "Obrigado e mais uma vez desculpem!"
+    ],
+    "Confirmation": [
+        "Certamente!!",
+        "Certo!!",
+        "Claro!",
+        "Claro!!",
+        "Exatamente!!",
+        "Fabuloso!!",
+        "Fant\u00e1stico!!",
+        "For\u00e7a!!",
+        "Inacredit\u00e1vel!!",
+        "Incr\u00edvel!",
+        "J\u00f3ia!",
+        "Magn\u00edfico!!",
+        "Mas \u00e9 claro!!",
+        "Mesmo!",
+        "Muito bem!",
+        "Ok!!",
+        "Perfeito!!",
+        "Pode ser!",
+        "Pois!!",
+        "Que bom!",
+        "Que foi!!",
+        "Que gosto!",
+        "Que lindo!",
+        "Que prazer!",
+        "Que sorte!!",
+        "Que surpresa!!",
+        "Sim!!",
+        "Super bem!",
+        "T\u00e1 legal!",
+        "Uau!",
+        "\u00d3bvio!!",
+        "\u00d3timo!"
+    ],
+    "Contrast": [
+        "Ah pois!",
+        "Arre!",
+        "Bem!",
+        "Caramba!",
+        "Claro que n\u00e3o!",
+        "Como breca!",
+        "Como os dem\u00f3nios!",
+        "De maneira nenhuma!",
+        "De modo nenhum!",
+        "Horr\u00edvel!",
+        "Imagina!",
+        "Irra!",
+        "Mas ou\u00e7a l\u00e1!",
+        "Nem pense nisso!",
+        "N\u00e3o diga!",
+        "N\u00e3o pode ser!",
+        "N\u00e3o!",
+        "Ouve l\u00e1!",
+        "Pois bem!",
+        "Pois!",
+        "Proibido!!",
+        "Puxa!",
+        "Que absurdo!",
+        "Que desastre!",
+        "Que feio!",
+        "Que mal!",
+        "Que malvado!!",
+        "Sim pois!",
+        "Tenho certeza que n\u00e3o!",
+        "Terr\u00edvel!",
+        "Ufa!",
+        "Uff!!",
+        "\u00c9 proibido!!",
+        "\u00c9 severamente proibido!!"
+    ],
+    "Disbelief": [
+        "A s\u00e9rio?!",
+        "Nem pense nisso!!",
+        "N\u00e3o acredito!",
+        "N\u00e3o me diga!!",
+        "N\u00e3o \u00e9 possivel!!",
+        "Quem sabe?!",
+        "Sim sim!",
+        "Verdade?!"
+    ],
+    "Greetings": [
+        "Meus parab\u00e9ns!",
+        "Meus queridos!",
+        "Muito bem!",
+        "Muitos parab\u00e9ns!",
+        "Muit\u00edssimo bem!",
+        "N\u00e3o h\u00e1 problema!",
+        "Ol\u00e1 a todos!",
+        "Ol\u00e1 linda!",
+        "Ol\u00e1 lindinha!",
+        "Ol\u00e1 querida!",
+        "Ol\u00e1 querido!",
+        "Ol\u00e1!",
+        "Oxal\u00e1!",
+        "Parab\u00e9ns!",
+        "Parab\u00e9ns!!",
+        "Que honra!",
+        "Quem dera!",
+        "Quem me dera!",
+        "Queridos amigos!!",
+        "Sa\u00fade!",
+        "Talvez!",
+        "Tchau!",
+        "Te amo muito!",
+        "Te amo!",
+        "Um grande beijo!",
+        "Viva!"
+    ],
+    "Recall": [
+        "A voc\u00eas!",
+        "Amigos!!",
+        "Amor!!",
+        "Aqui estamos!",
+        "Aqui estou!",
+        "Aqui est\u00e1!",
+        "Aten\u00e7\u00e3o!!",
+        "Bacana!",
+        "Beleza!",
+        "Com os dem\u00f4nios!",
+        "Desculpa!!",
+        "Desculpe!!",
+        "Ei!!",
+        "Escuta!!",
+        "Estou sim!",
+        "Est\u00e1 l\u00e1!",
+        "Est\u00e1 sim!",
+        "Oi!",
+        "Olha l\u00e1!",
+        "Ouve l\u00e1!",
+        "Ouve!!",
+        "Ou\u00e7a!!",
+        "Que saudade!",
+        "Que tristeza!",
+        "Quem diria!",
+        "Querido!!",
+        "Responde!!",
+        "Sim!",
+        "Socorro!!",
+        "Tranq\u00fcilo!",
+        "Vai embora!",
+        "Vai vai!",
+        "Valeu!",
+        "V\u00e1 embora!",
+        "V\u00e1 v\u00e1!",
+        "\u00d3!"
+    ],
+    "Regret": [
+        "Lamento muito!",
+        "Lamento!",
+        "Os meus p\u00easames!",
+        "Que azar!",
+        "Que desgosto!",
+        "Que desgra\u00e7a!",
+        "Que pena!",
+        "Tenho muitas saudades tuas!"
+    ],
+    "Request_Action": [
+        "Ainda est\u00e1?!",
+        "E agora?!",
+        "Ent\u00e3o?!",
+        "Est\u00e1 a seguir-me?!",
+        "N\u00e3o v\u00ea?!",
+        "Pode repetir por favor?!",
+        "Pode repetir?!",
+        "Podem repetir por favor?!",
+        "Podem repetir?!",
+        "Por favor?!",
+        "Responda!"
+    ],
+    "Request_Confirmation": [
+        "A s\u00e9rio?!",
+        "A s\u00e9rio?!!",
+        "Acha?!",
+        "Agora est\u00e1 melhor?!",
+        "Assim?!",
+        "Certo?!",
+        "Est\u00e1 bem?!",
+        "Est\u00e1 brincando?!",
+        "Est\u00e1 certo assim?!",
+        "Est\u00e1 falando s\u00e9rio?!",
+        "Est\u00e1 me seguindo?!",
+        "Est\u00e3o brincando?!",
+        "Mas pode ser?!",
+        "N\u00e3o acha?!",
+        "N\u00e3o cr\u00ea?!",
+        "N\u00e3o parece?!",
+        "Parece o qu\u00ea?!",
+        "Percebe?!",
+        "Sabe por qu\u00ea?!",
+        "Sabe?!",
+        "Sim?!",
+        "S\u00f3 isto?!",
+        "Tudo bem?!",
+        "Verdadeiro ou falso?!",
+        "Viu?!",
+        "\u00c9 poss\u00edvel?!"
+    ],
+    "Request_Information": [
+        "Sei l\u00e1?!",
+        "Tudo bem?!!",
+        "Tudo ok?!"
+    ],
+    "Thanks": [
+        "De nada!",
+        "Estou-lhe muito grata!",
+        "Estou-lhe muito grato!",
+        "Muito agradecida!",
+        "Muito agradecido!",
+        "Muito obrigada!",
+        "Muito obrigado!",
+        "Muit\u00edssimo obrigada!",
+        "Muit\u00edssimo obrigado!",
+        "N\u00e3o tem de qu\u00ea!",
+        "Obrigada pela sua aten\u00e7\u00e3o!",
+        "Obrigada pela sua colabora\u00e7\u00e3o!",
+        "Obrigada!",
+        "Obrigado pela sua aten\u00e7\u00e3o!",
+        "Obrigado pela sua colabora\u00e7\u00e3o!",
+        "Obrigado!"
+    ],
+    "Ah": [
+        "\\item=Ah",
+        "\\item=Ah_01",
+        "\\item=Ah_02",
+        "\\item=Ah_03",
+        "\\item=Ah_04"
+    ],
+    "Ai": [
+        "\\item=Ai"
+    ],
+    "Breath": [
+        "\\item=Breath",
+        "\\item=Breath_01",
+        "\\item=Breath_02"
+    ],
+    "Buh": [
+        "\\item=Buh",
+        "\\item=Buh_01"
+    ],
+    "Buuu": [
+        "\\item=Buuu",
+        "\\item=Buuu_01",
+        "\\item=Buuu_02"
+    ],
+    "Chch": [
+        "\\item=Chch"
+    ],
+    "Click": [
+        "\\item=Click",
+        "\\item=Click_01",
+        "\\item=Click_02",
+        "\\item=Click_03",
+        "\\item=Click_04"
+    ],
+    "Cough": [
+        "\\item=Cough",
+        "\\item=Cough_01",
+        "\\item=Cough_02",
+        "\\item=Cough_03"
+    ],
+    "Cry": [
+        "\\item=Cry",
+        "\\item=Cry_01",
+        "\\item=Cry_02",
+        "\\item=Cry_03"
+    ],
+    "Eh": [
+        "\\item=Eh"
+    ],
+    "Ehm": [
+        "\\item=Ehm",
+        "\\item=Ehm_01",
+        "\\item=Ehm_02"
+    ],
+    "Ei": [
+        "\\item=Ei",
+        "\\item=Ei_01",
+        "\\item=Ei_02"
+    ],
+    "Epa": [
+        "\\item=Epa",
+        "\\item=Epa_01",
+        "\\item=Epa_02",
+        "\\item=Epa_03"
+    ],
+    "Hmhm": [
+        "\\item=Hmhm",
+        "\\item=Hmhm_01"
+    ],
+    "Kiss": [
+        "\\item=Kiss",
+        "\\item=Kiss_01",
+        "\\item=Kiss_02"
+    ],
+    "Laugh": [
+        "\\item=Laugh",
+        "\\item=Laugh_01",
+        "\\item=Laugh_02",
+        "\\item=Laugh_03",
+        "\\item=Laugh_04",
+        "\\item=Laugh_05",
+        "\\item=Laugh_06",
+        "\\item=Laugh_07",
+        "\\item=Laugh_08"
+    ],
+    "Mhmm": [
+        "\\item=Mhmm",
+        "\\item=Mhmm_01"
+    ],
+    "Mmm": [
+        "\\item=Mmm",
+        "\\item=Mmm_01",
+        "\\item=Mmm_02",
+        "\\item=Mmm_03"
+    ],
+    "Oh": [
+        "\\item=Oh",
+        "\\item=Oh_01",
+        "\\item=Oh_02",
+        "\\item=Oh_03"
+    ],
+    "Ohoh": [
+        "\\item=Ohoh",
+        "\\item=Ohoh_01"
+    ],
+    "Ops": [
+        "\\item=Ops",
+        "\\item=Ops_01",
+        "\\item=Ops_02"
+    ],
+    "Prrr": [
+        "\\item=Prrr",
+        "\\item=Prrr_01",
+        "\\item=Prrr_02"
+    ],
+    "Puf": [
+        "\\item=Puf",
+        "\\item=Puf_01"
+    ],
+    "Shhh": [
+        "\\item=Shhh",
+        "\\item=Shhh_01",
+        "\\item=Shhh_02",
+        "\\item=Shhh_03"
+    ],
+    "Sigh": [
+        "\\item=Sigh",
+        "\\item=Sigh_01",
+        "\\item=Sigh_02",
+        "\\item=Sigh_03"
+    ],
+    "Singing": [
+        "\\item=Singing",
+        "\\item=Singing_01",
+        "\\item=Singing_02"
+    ],
+    "Sneeze": [
+        "\\item=Sneeze",
+        "\\item=Sneeze_01"
+    ],
+    "Sniff": [
+        "\\item=Sniff",
+        "\\item=Sniff_01",
+        "\\item=Sniff_02",
+        "\\item=Sniff_03"
+    ],
+    "Snore": [
+        "\\item=Snore",
+        "\\item=Snore_01",
+        "\\item=Snore_02"
+    ],
+    "Swallow": [
+        "\\item=Swallow",
+        "\\item=Swallow_01"
+    ],
+    "Throat": [
+        "\\item=Throat",
+        "\\item=Throat_01",
+        "\\item=Throat_02",
+        "\\item=Throat_03"
+    ],
+    "Ttt": [
+        "\\item=Ttt"
+    ],
+    "Uff": [
+        "\\item=Uff",
+        "\\item=Uff_01",
+        "\\item=Uff_02"
+    ],
+    "Ups": [
+        "\\item=Ups",
+        "\\item=Ups_01",
+        "\\item=Ups_02"
+    ],
+    "Whistle": [
+        "\\item=Whistle",
+        "\\item=Whistle_01",
+        "\\item=Whistle_02",
+        "\\item=Whistle_03"
+    ],
+    "Yawn": [
+        "\\item=Yawn",
+        "\\item=Yawn_01",
+        "\\item=Yawn_02"
+    ],
+    "Yeah": [
+        "\\item=Yeah",
+        "\\item=Yeah_01"
+    ],
+    "Yuhu": [
+        "\\item=Yuhu",
+        "\\item=Yuhu_01"
+    ]
+}

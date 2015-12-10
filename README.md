@@ -1,4 +1,5 @@
-# Loquendo 
+<img src="http://jochemstoel.github.io/img/loquendo-80.png">
+
 Loquendo is a multinational computer software technology corporation, headquartered in Torino, Italy, that provides speech recognition, speech synthesis, speaker verification and identification applications. Loquendo's products have been the recipient of several awards including being a Speech Technologies Speech Engine Leader in 2007, 2008, and 2009 It was rated as 'Market Leader' by Speech Technologies in 2009 and 2010.
 
 <a href="http://www.nuance.com/for-business/customer-service-solutions/loquendo-small-business-bundle/index.htm">Loquendo Website</a>
